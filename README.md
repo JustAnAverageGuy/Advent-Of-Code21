@@ -14,9 +14,9 @@ Just my AoC repository
 |08|[Seven Segment Search](https://adventofcode.com/2021/day/8)|[py](day8.py)|
 |09|[Smoke Basin](https://adventofcode.com/2021/day/9)|[py](day9.py)|
 |10|[Syntax Scoring](https://adventofcode.com/2021/day/10)|[py](day10.py)|
-|11|[Dumbo Octopus](https://adventofcode.com/2021/day/11)|[py](day11.py)|
+|11|[Dumbo Octopus](https://adventofcode.com/2021/day/11)|[py](day11.py),[jupyter](day11.ipynb)|
 |12|[Passage Pathing](https://adventofcode.com/2021/day/12)|[py](day12.py)|
-|13|[Transparent Origami](https://adventofcode.com/2021/day/13)|[py](day13.py)|
+|13|[Transparent Origami](https://adventofcode.com/2021/day/13)|[py](day13.py),[ggb](day13.ggb)|
 |14|[Extended Polymerization](https://adventofcode.com/2021/day/14)|[py](day14.py)|
 |15|||
 |16|||
